@@ -1,3 +1,9 @@
+- This app is generating new invoice every page reload.
+- On each page reload amount of units||hours are changed randomly from number 1 to 10 to recalculate new values.
+- All values are calculating on the fly.
+- All functions are covered with jsdoc. To generate doc run `npm run jsdoc`.
+- Formula for calculating of discount is equally spread around all items to generate most fare discount calculation.
+
 ## Available Scripts
 
 In the project directory, you can run:
