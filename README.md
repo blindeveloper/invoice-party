@@ -2,8 +2,8 @@
 - On each page reload amount of units||hours are changed randomly from number 1 to 10 to recalculate new values.
 - All values are calculating on the fly.
 - All functions are covered with jsdoc. To generate doc run `npm run jsdoc`.
-- Formula for calculating of discount is equally spread around all items to generate most fare discount calculation.
-- Graphql queries located in queries folder
+- Formula for calculating of discount is equally spread around all cost items of phase, to generate most fare discount calculation.
+- Graphql queries located in queries folder.
 - Because of time constrains, test are covering only most essential functions, which are about discount recalculation.
 - Because of time constrains, visual representation is super simple.
 
